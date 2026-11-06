@@ -1,0 +1,4 @@
+{
+  "ios": { "minimum": "1.0" },
+  "android": { "minimum": "1.0" }
+}
